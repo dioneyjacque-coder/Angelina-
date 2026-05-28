@@ -1,0 +1,6 @@
+{
+  "name": "Angelina - Gestor de Moda Fitness",
+  "description": "Painel integrado de gestão para a marca Angelina Moda Fitness, incluindo controle de estoque, vendas, faturamento, inteligência de marketing com IA e suporte.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
